@@ -1,2 +1,1 @@
-# Freq_ML
-Frequentist Machine Learning Projects
+# Frequentist Machine Learning
